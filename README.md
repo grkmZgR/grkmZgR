@@ -21,13 +21,13 @@ Welcome to my GitHub profile. I'm a Senior Industrial Engineering Student passio
 | Python                     | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" /> |
 | SQL                        | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" /> |
 | MySQL                      | <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="40" /> |
-| Access                     | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Microsoft_Access_%28Office_365%29.svg/1200px-Microsoft_Access_%28Office_365%29.svg.png" width="40" /> |
+| Access                     | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Microsoft_Access_2013-2019_logo.svg/1200px-Microsoft_Access_2013-2019_logo.svg.png" width="40" /> |
 | Excel                      | <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" /> |
-| PowerBI                    | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Power_BI_logo.svg/1024px-Microsoft_Power_BI_logo.svg.png" width="40" /> |
-| Arena Simulation Software  | <img src="https://www.arenasimulation.com/sites/default/files/arena_logo.png" width="40" /> |
-| CPLEX                      | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IBM_CPLEX_Optimization_Studio_logo.png/600px-IBM_CPLEX_Optimization_Studio_logo.png" width="40" /> |
-| Pyomo                      | <img src="https://raw.githubusercontent.com/Pyomo/pyomo/master/doc/source/_static/pyomo_logo.png" width="40" /> |
-| Gurobi                     | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gurobi_logo.svg/512px-Gurobi_logo.svg.png" width="40" /> |
+| PowerBI                    | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="40" /> |
+| Arena Simulation Software  | <img src="https://usoftly.ir/wp-content/uploads/2021/12/Arena-Simulation-Professional-16.1-x64.pngg" width="40" /> |
+| CPLEX                      | <img src="https://usoftly.ir/wp-content/uploads/2024/02/IBM-ILOG-CPLEX-Optimization-Studio.png" width="40" /> |
+| Pyomo                      | <img src="https://upload.wikimedia.org/wikipedia/en/f/fd/Pyomo_Logo_Without_Text.png" width="40" /> |
+| Gurobi                     | <img src="https://avatars.githubusercontent.com/u/15114496?s=280&v=4" width="40" /> |
 
 ## Projects
 - [Library DBMS](https://github.com/grkmZgR/ldbms): Library DBMS for IE409.
