@@ -1,6 +1,6 @@
 # Hello! 👋
 
-Welcome to my GitHub profile. I'm a Senior Industrial Engineering Student passionate about building innovative solutions and exploring new technologies.
+Welcome to my GitHub profile. I'm a Senior Industrial Engineering Student passionate about Data and Optimization.
 
 - **Currently Working On:**  
   - **IE106:** Developing a Library Database using MySQL.
