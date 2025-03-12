@@ -16,13 +16,18 @@ Welcome to my GitHub profile. I'm a Senior Industrial Engineering Student passio
 ## Technical Skills
 
 ### Programming Languages & Tools
-| Optimization & Programming | Database & Office Tools |
-|----------------------------|--------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" style="vertical-align: middle; margin-right: 8px;" /> <span style="vertical-align: middle;">Python</span> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" style="vertical-align: middle; margin-right: 8px;" /> <span style="vertical-align: middle;">SQL</span> |
-| <img src="https://www.arenasimulation.com/sites/default/files/arena_logo.png" width="40" style="vertical-align: middle; margin-right: 8px;" /> <span style="vertical-align: middle;">Arena Simulation Software</span> | <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="40" style="vertical-align: middle; margin-right: 8px;" /> <span style="vertical-align: middle;">MySQL</span> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IBM_CPLEX_Optimization_Studio_logo.png/600px-IBM_CPLEX_Optimization_Studio_logo.png" width="40" style="vertical-align: middle; margin-right: 8px;" /> <span style="vertical-align: middle;">CPLEX</span> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Microsoft_Access_%28Office_365%29.svg/1200px-Microsoft_Access_%28Office_365%29.svg.png" width="40" style="vertical-align: middle; margin-right: 8px;" /> <span style="vertical-align: middle;">Access</span> |
-| <img src="https://raw.githubusercontent.com/Pyomo/pyomo/master/doc/source/_static/pyomo_logo.png" width="40" style="vertical-align: middle; margin-right: 8px;" /> <span style="vertical-align: middle;">Pyomo</span> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" style="vertical-align: middle; margin-right: 8px;" /> <span style="vertical-align: middle;">Excel</span> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gurobi_logo.svg/512px-Gurobi_logo.svg.png" width="40" style="vertical-align: middle; margin-right: 8px;" /> <span style="vertical-align: middle;">Gurobi</span> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Power_BI_logo.svg/1024px-Microsoft_Power_BI_logo.svg.png" width="40" style="vertical-align: middle; margin-right: 8px;" /> <span style="vertical-align: middle;">PowerBI</span> |
+| Tool/Language              | Logo |
+|----------------------------|------|
+| Python                     | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" /> |
+| SQL                        | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" /> |
+| MySQL                      | <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="40" /> |
+| Access                     | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Microsoft_Access_%28Office_365%29.svg/1200px-Microsoft_Access_%28Office_365%29.svg.png" width="40" /> |
+| Excel                      | <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" /> |
+| PowerBI                    | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Power_BI_logo.svg/1024px-Microsoft_Power_BI_logo.svg.png" width="40" /> |
+| Arena Simulation Software  | <img src="https://www.arenasimulation.com/sites/default/files/arena_logo.png" width="40" /> |
+| CPLEX                      | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IBM_CPLEX_Optimization_Studio_logo.png/600px-IBM_CPLEX_Optimization_Studio_logo.png" width="40" /> |
+| Pyomo                      | <img src="https://raw.githubusercontent.com/Pyomo/pyomo/master/doc/source/_static/pyomo_logo.png" width="40" /> |
+| Gurobi                     | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gurobi_logo.svg/512px-Gurobi_logo.svg.png" width="40" /> |
 
 ## Projects
 - [Library DBMS](https://github.com/grkmZgR/ldbms): Library DBMS for IE409.
