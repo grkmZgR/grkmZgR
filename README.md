@@ -18,16 +18,16 @@ Welcome to my GitHub profile. I'm a Senior Industrial Engineering Student passio
 ### Programming Languages & Tools
 | Tool/Language              | Logo |
 |----------------------------|------|
-| Python                     | ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
-| SQL                        | ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) |
-| MySQL                      | ![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg) |
-| Access                     | ![Access Logo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Microsoft_Access_%282019%E2%80%93present%29.svg) |
-| Excel                      | ![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg) |
-| PowerBI                    | ![PowerBI Logo](https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Power_BI_logo.svg) |
-| Arena Simulation Software  | ![Arena Simulation Logo](https://via.placeholder.com/40?text=Arena) |
-| CPLEX                      | ![CPLEX Logo](https://via.placeholder.com/40?text=CPLEX) |
-| Pyomo                      | ![Pyomo Logo](https://via.placeholder.com/40?text=Pyomo) |
-| Gurobi                     | ![Gurobi Logo](https://upload.wikimedia.org/wikipedia/commons/6/68/Gurobi_logo.svg) |
+| Python                     | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" /> |
+| SQL                        | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" /> |
+| MySQL                      | <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="40" /> |
+| Access                     | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Microsoft_Access_%282019%E2%80%93present%29.svg" width="40" /> |
+| Excel                      | <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" /> |
+| PowerBI                    | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Power_BI_logo.svg" width="40" /> |
+| Arena Simulation Software  | <img src="https://via.placeholder.com/40?text=Arena" width="40" /> |
+| CPLEX                      | <img src="https://via.placeholder.com/40?text=CPLEX" width="40" /> |
+| Pyomo                      | <img src="https://via.placeholder.com/40?text=Pyomo" width="40" /> |
+| Gurobi                     | <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Gurobi_logo.svg" width="40" /> |
 
 ## Projects
 - [Library DBMS](https://github.com/grkmZgR/ldbms): Library DBMS for IE409.
