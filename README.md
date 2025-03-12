@@ -31,6 +31,7 @@ Welcome to my GitHub profile. I'm a Senior Industrial Engineering Student passio
 
 ## Projects
 - [Library DBMS](https://github.com/grkmZgR/ldbms): Library DBMS for IE409.
+- [Optimal Location Selection](https://github.com/grkmZgR/Optimal-Location-and-Map): Optimal Location Selection and Mapping for IE308.
 - [Graduation Project Mathematical Model](https://github.com/grkmZgR/okk-mathematical-model): Mathematical Model for my graduation project.
 - [Graduation Project Heuristic](https://github.com/grkmZgR/okk-heuristic): Heuristic solution for my graduation project.
 
