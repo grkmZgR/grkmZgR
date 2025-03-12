@@ -1,4 +1,4 @@
-# Hello, I'm Görkem Özgür! 👋
+# Hello! 👋
 
 Welcome to my GitHub profile. I'm a Senior Industrial Engineering Student passionate about building innovative solutions and exploring new technologies.
 
