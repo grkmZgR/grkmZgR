@@ -5,11 +5,9 @@ Welcome to my GitHub profile. I'm a Senior Industrial Engineering Student passio
 - **Currently Working On:**  
   - **Graduation Project:** Completed and currently being converted into a research paper. The project focuses on building a Decision Support System for Humanitarian Logistics.
 
-- **Learning:**  
+- **Learning:**
+  - Wev Development 
   - Python  
-  - SQL  
-  - MySQL  
-  - Databases  
   - Optimization
 
 ## Technical Skills
